@@ -6,12 +6,12 @@
 
 ## Table of Contents
 
-* [Summary](# Summary)
-* [Installation](Installation)
-* [Methods](Methods)
-* [Compatibility](Compatibility)
-* [History](History)
-* [Credits](Credits)
+* [Summary](#Summary)
+* [Installation](#Installation)
+* [Methods](#Methods)
+* [Compatibility](#Compatibility)
+* [History](#History)
+* [Credits](#Credits)
 
 ## Summary
 
